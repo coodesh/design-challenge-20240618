@@ -1,4 +1,4 @@
-# Design Challenge 20210201
+# Design Challenge 20240618
 
 ## Introduction
 
@@ -8,7 +8,6 @@ In this challenge, there are several ways to develop and obtain the proposed res
 
 ### First things first
  
-- The project must use the specific Language/Tool in its Job Posting (if applying). For example: Python, R, Scala, Figma, Google Presentation and others;
 - Consider as deadline 5 days from the start of the challenge. If you have been invited to take the test and it is not possible to complete within this period, please notify the person who invited you to receive instructions on what to do.
 - Document the entire research process for the development of the activity (README.md in your repository); the results of these tasks are just as important as your thought process and decisions as you complete them, so try to document and present your hypotheses and decisions as much as possible.
 
@@ -24,7 +23,7 @@ Its goal is to create a project that gives attention to the requirements mention
 
 ## Step by step
 
-In this challenge, we worked on the elaboration of an initial structure of the Design System and the development the mobile and web prototypes of the screens of the Dashboard project of a new Trevo Digital Client.
+In this challenge, we worked on the elaboration using MUI Design System and components to development the mobile and web prototypes of the screens of the Dashboard project of a new Trevo Digital Client.
 
 Before starting work, the requirements and analysis team developed the initial WireFrame for the desktop version of the project:
 
@@ -36,11 +35,13 @@ To work on the prototype, we must follow the color palette that the client sent:
 
 ### Design System
 
-The Design System for the project will be an initial draft with:
+The Design System already exists, and it is essential to use the existing components and create new ones following best practices, such as:
 
-- Font Types
-- Colors
-- Components
+- Component Names
+- Structure
+- Variants
+
+Use the Material UI Design System as a base: [MUI 5](https://www.figma.com/design/zcCAh6b9l9RCoM6cTQZDxm/MUI-for-Figma-v5.16---Material-UI-(Release)?node-id=4662-14&t=1NNiMr4mqgXk9z6x-0)
 
 
 ### Desktop Version
