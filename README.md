@@ -41,7 +41,7 @@ The Design System already exists, and it is essential to use the existing compon
 - Structure
 - Variants
 
-Use the Material UI Design System as a base: [MUI 5](https://www.figma.com/design/zcCAh6b9l9RCoM6cTQZDxm/MUI-for-Figma-v5.16---Material-UI-(Release)?node-id=4662-14&t=1NNiMr4mqgXk9z6x-0)
+Use the Material UI Design System as a base: [MUI 5]([https://www.figma.com/design/zcCAh6b9l9RCoM6cTQZDxm/MUI-for-Figma-v5.16---Material-UI-(Release)?node-id=4662-14&t=1NNiMr4mqgXk9z6x-0](https://www.figma.com/community/file/912837788133317724))
 
 
 ### Desktop Version
