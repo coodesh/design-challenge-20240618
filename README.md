@@ -82,4 +82,4 @@ Notify us of completion and submit for correction.
 9. Submit and wait for the instructions to follow the process. Success and good luck. =)
 
 ## Support
-Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send an email to contato@coodesh.com.
+Use our chat widget to ask questions about the process or send an email to contato@coodesh.com.
